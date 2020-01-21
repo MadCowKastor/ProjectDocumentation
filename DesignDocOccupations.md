@@ -1,4 +1,4 @@
-#Factions, Departments, Occupations and Goals
+# Factions, Departments, Occupations and Goals
 
 The purpose of the document is to outline a social system of Factions, Departments, Occupations and Goals with the intent to introduce some starting direction to the players and to allow for low level conflicts of interest to push interesting role playing scenarios. 
 
