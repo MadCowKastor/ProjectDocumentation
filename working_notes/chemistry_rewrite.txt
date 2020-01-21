@@ -1,0 +1,89 @@
+	reagents will become powder if all contents are solid, or a liquid if any contents are liquid, upon being poured from the container
+	liquid reagents outside a container will splash on the ground and become a useless decal
+	gasses can be used as reagents in a vapor chamber
+	reagents with a boiling point should gradually evaporate into a gas form (like sublimator) above that boiling point, and condense into a liquid below it (vapor chamber used for containing them).
+	reagents with a melting point should become a liquid above that point and a powder below it 
+	objects can be ground into powder reagents in a mortar and pestle
+	powdered reagents can be thrown into faces (entering blood through eyes and mouth, contact skin otherwise)
+
+	randomized chem recipes
+		- need to make sure there is no reaction collision 
+		- need to make sure hints can be generated from steps
+		- maybe specify a chain of reagents and some conditions for the steps needed to move between each (for constants/starting points)
+			- ie. if you know that the next step always involves heating to 500K, the reaction can't contain any reagent that evaporates below that point
+	- use for healthy healthy juice as a proof of concept, then maybe expand to other high tier chems
+
+styptic powder
+	- on contact,   stops bleeding, sterilizes wounds, and kickstarts healing
+	- on injection, causes blood clots to form (heart damage?)
+	- on ingestion, causes nausea
+	- on overdose,  causes blood clots to form as injection
+
+binding agent
+	turns liquid reagents into powder stacks via a reaction
+
+	- on contact, makes you sticky?????
+	- on injection, causes organ damage
+	- on ingestion, causes vomiting
+	- on overdose,  causes more organ damage
+
+mix binding agent and styptic powder to make synthetic skin
+	synthetic skin
+		- on contact,   shrinks and sterilizes burns, and kickstarts healing
+		- on injection, causes blood clots to form
+		- on ingestion, causes vomiting?
+		- on overdose,  nothing
+
+harvest entolimod from bacterial cultures
+	maybe have some processing step between harvest and medication use
+	entolimod protein
+		- on contact,   does nothing
+		- on injection, lowers radiation in the body while causing dizziness and nausea
+		- on ingestion, insulates against radiation poisoning
+		- on overdose,  causes organ damage and lowered white blood cell count
+
+harvest adrenaline from adrenal glands (butchery product) or from bacterial cultures
+	adrenaline
+		- on contact,   does nothing
+		- on injection, increases the shock threshold for passing out/going into asystole, causes jittering and shivering
+		- on ingestion, causes jittering
+		- on overdose,  causes heart and kidney damage
+
+altrac powder
+	basically meth/hyperzine
+	- on contact, causes jittering
+	- on ingestion, causes jittering, increased stamina regeneration, and increased move speed
+	- on injection causes above + possible seizures
+	- on overdose, causes seizures and berserk status (backport from Europa)
+
+mix altrac powder and adrenaline to make combat stimulants
+	combat stimulants
+		increases melee damage
+		hightened combined effects of both drugs, but with lower overdose threshold and harsher penalties
+		inevitably causes tissue damage and organ scarring
+	
+biteleaf juice
+	mild hallucinogen
+	boil to biteleaf extract
+		stronger hallucinogen
+
+bruisegrass sap
+	- on contact, causes burns
+	- on injection, deadens pain, causes dizziness and rainbow effect
+	- on ingestion, causes milder versions of the above
+	- on overdose, causes seizures, hallucinations, and brain damage
+	
+	boil to bruisegrass extract
+		much more severe effects, lower overdose threshold, always causes hallucinations
+	
+	dilute to make bruisegrass tea
+		better painkiller, less hallucinations, higher overdose threshold
+		
+spingrass juice
+	mild narcotic
+	boil to spingrass extract
+		stronger narcotic
+
+"soap"
+
+healthy-healthy juice
