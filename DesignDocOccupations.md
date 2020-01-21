@@ -19,39 +19,40 @@ There are two major factions as part of the occupations system; Tradehouse Ivanm
 
 ## Departments and Occupations and their goals
 ### The Captain
-Department of one.
-Department Goal: “A tight ship: x/y Department goals complete.” This rewards him for having a more peacekeeping role and making sure everyone else does a good job.
+* Department of one.
+* Department Goal: “A tight ship: x/y Department goals complete.” This rewards him for having a more peacekeeping role and making sure everyone else does a good job.
+
 The captain is the top of the command structure. His loyalty is split between Tradehouse Ivanmoth and his responsibilities of the crew. 
-Department of one.
-Takes orders from none.
-Access: All (except enclave inner circle?)
-Skills: A generalist with a focus towards combat and piloting.
-Notable starting gear: None, but uniquely has access to the captains quarters, filled with “interesting” gear.
-Race limitations: Human only.
+* Takes orders from none.
+* Access: All (except enclave inner circle?)
+* Skills: A generalist with a focus towards combat and piloting.
+* Notable starting gear: None, but uniquely has access to the captains quarters, filled with “interesting” gear.
+* Race limitations: Human only.
 
 
 
 ### First Mate
-Department of one.
-Department Goal: “Company first: Accrue x amount of T in the Tradeship Ivanmoth account.” Nice and simple with lots of opportunity to develop adversity. Love of money is the root of all evils.
+* Department of one.
+* Department Goal: “Company first: Accrue x amount of T in the Tradeship Ivanmoth account.” Nice and simple with lots of opportunity to develop adversity. Love of money is the root of all evils.
+
 The first mate is the captain's right hand man. Hand picked by the Trademasters to ensure it’s interests are kept at heart. He takes orders from the captain but is loyal to House Ivanmoth first.
-Takes orders from the captain.
-Access: Too most rooms including all traditional departments and the bridge, but more limited in the gear he can operate. Can’t operate the accounts terminal, this is critical, else he can steal all the money straight away to achieve his goal.
-Skills: A generalist with a focus on Admin.
-Notable starting gear: The nicest suit. Tradeship Ivanmoths account card.
-Race limitations: Tentatively both, firstmate yinglet is an interesting dynamic, with some lore precedent set out by Kass. Try it out, see if it works as intended. If plays out that it introduces too much internal conflict of interests to the role then we can swap it later.
+* Takes orders from the captain.
+* Access: Too most rooms including all traditional departments and the bridge, but more limited in the gear he can operate. Can’t operate the accounts terminal, this is critical, else he can steal all the money straight away to achieve his goal.
+* Skills: A generalist with a focus on Admin.
+* Notable starting gear: The nicest suit. Tradeship Ivanmoths account card.
+* Race limitations: Tentatively both, firstmate yinglet is an interesting dynamic, with some lore precedent set out by Kass. Try it out, see if it works as intended. If plays out that it introduces too much internal conflict of interests to the role then we can swap it later.
 
 ### The Enclave
-Occupations: Matriarch, Patriarch, Enclave Scout, Enclave Yinglet.
-Department Goal: Random from a small list. Should always be slightly at odds with at least one other department and be for the benefit of the Enclave. “What are those scavs up to now?!?”
+* Occupations: Matriarch, Patriarch, Enclave Scout, Enclave Yinglet.
+* Department Goal: Random from a small list. Should always be slightly at odds with at least one other department and be for the benefit of the Enclave. “What are those scavs up to now?!?”
 
 **Matriarch**
 Leader of the yinglet enclave on the ship. She cares for all of the yinglets of the enclave but for her the health of the enclave as a whole comes first, above any individual life.
-Is supposed to take orders from the captain.
-Access: Bridge access and Enclave Inner Circle access.
-Skills: Admin (with a splash of medical?)
-Notable starting gear: Unique clothing. (and some extra gear in her personal quarters if she has them)
-Race limitations: Yinglet Female.
+* Is supposed to take orders from the captain.
+* Access: Bridge access and Enclave Inner Circle access.
+* Skills: Admin (with a splash of medical?)
+* Notable starting gear: Unique clothing. (and some extra gear in her personal quarters if she has them)
+* Race limitations: Yinglet Female.
 
 **Patriarch**
 
