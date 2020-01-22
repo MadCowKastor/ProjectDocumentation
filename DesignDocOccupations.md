@@ -72,11 +72,14 @@ Enclave Scouts are a type of yinglet specialist common in space faring missions.
 
 **Enclave Yinglet**
 
+Do as thou wilt. T
+
 ### The Traditional Departments
 * Occupations: Department heads and Department Juniors
 * Department goals: Vary per department but a all conclusive to the smooth running of this ship. Medical: Have low fatalities among the crew. Engineering: Keep air and power abover a certain level. Research: One of a few random reasearch goals per round. Perferably resualting in interesting and dangerous items.
 
 **Department Heads**
+
 Department heads keep their department focuse and in order.
 * Takes orders for the Captain, sometimes the First Mate on the Captains behalf
 * Access: Absolute access to their department and bridge access.
@@ -85,7 +88,8 @@ Department heads keep their department focuse and in order.
 * Limitations: Human. Max 1 per department.
 
 **Department Juniors**
-The main workforce upon the ship, they keep it running smoothly, make sure the crew is in good health and progress the march of science.
+
+The main workforce upon the ship, they keep it running smoothly, make sure the crew is in good health and progress the march of science. The yinglets in these roles tend to be independant of the enclave, though happy to interact with their kind there.
 * Takes order from their Department Head, the Captain and the First Mate
 * Access: Near total access to their department.
 * Skills: As definied by their department
